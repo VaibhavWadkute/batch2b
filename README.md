@@ -1,4 +1,4 @@
-# Employee.java Program
+# Employee.java and Department.java Program
 
 ## to run this, clone repository in local machine
 
